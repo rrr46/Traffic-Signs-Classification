@@ -1,0 +1,2 @@
+model_checkpoint_path: "rrr_Lenet_ModA"
+all_model_checkpoint_paths: "rrr_Lenet_ModA"
