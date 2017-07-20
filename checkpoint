@@ -1,2 +1,2 @@
-model_checkpoint_path: "rrr_Lenet_ModA"
-all_model_checkpoint_paths: "rrr_Lenet_ModA"
+model_checkpoint_path: "rrr_Lenet3_DropOut0p5_LR0p00005"
+all_model_checkpoint_paths: "rrr_Lenet3_DropOut0p5_LR0p00005"
